@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "Optomizing_64_Bit_multiplication_and_division_using_SIMD"
+name = "Basic_AVX2_SIMD_Division_Operation_Placeholder_Implementation"
 version = "0.1.0"
 dependencies = [
  "tfhe",
