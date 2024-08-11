@@ -1,0 +1,7 @@
+[package]
+name = "Basic_AVX2_SIMD_Division_Operation_Placeholder_Implementation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tfhe = { version = "*", features = ["boolean", "shortint", "integer", "x86_64"] }
